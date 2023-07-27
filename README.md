@@ -21,7 +21,7 @@ It's a side project. Of course, in Laravel.
 
 &nbsp;
 
-**Some skills/Languages:**\
+**Some skills/languages:**\
 <span style="color: #333333">PHP, Laravel, MySQL, REST,\
 API definition and usage, Data Modeling,\
 Javascript, React, HTML, SASS, CSS,\
