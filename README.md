@@ -8,16 +8,11 @@ I'm interested in critical thinking, self improvement, personal finance and rock
 📍 **I’m curious.** I read a lot, listen, study, analyze.\
 But I can’t stand fanaticism: I don’t like chasing after the last-minute framework all the time.
 
-🚀 **I'm currently working on** a platform for creators to manage and monetize their subscription content.\
-It's a side project. Of course, in Laravel.
-
-👉 I’m looking for partners for my side project.
-
 &nbsp;
 
 > Note: **`Tony Joe`** is just my pseudonym.
 > 
-> _In reality, I'm 40 and I work as a consultant in a well-known agency in Italy. There, I work with enterprise technologies that, while powerful, I find boring._
+> _In reality, I'm 43 and I work as a consultant in a well-known agency in Italy.
 
 &nbsp;
 
